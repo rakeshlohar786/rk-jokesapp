@@ -1,2 +1,2 @@
 # rk-jokesapp
-Joke App Which creates random jokes
+It's Chuck Norris Jokes app displays random jokes on page referesh.
