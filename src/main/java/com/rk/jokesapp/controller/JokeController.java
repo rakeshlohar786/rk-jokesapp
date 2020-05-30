@@ -1,4 +1,4 @@
-package com.rk.jokesapp;
+package com.rk.jokesapp.controller;
 
 import com.rk.jokesapp.service.JokesServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
